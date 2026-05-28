@@ -1,2 +1,3 @@
 *.png
 pictures/
+!pictures/not-ignore/file1.txt
