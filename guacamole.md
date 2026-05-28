@@ -4,3 +4,4 @@
 * lemon
 * salt
 ## Instructions
+Cut the avocado and remove the seed.
